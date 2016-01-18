@@ -1,0 +1,77 @@
+header{
+	text-align: center;
+	padding-bottom:50px;
+}
+
+section{
+	width:800px;
+	margin:auto;
+	padding:10px;
+}
+
+
+footer{
+	font-family: 'Averia Sans Libre';
+	font-size: 10pt;
+	width: 600px;
+	margin:auto;
+	text-align: center;
+	padding-top: 10px;
+}
+
+
+h1{
+	font-family: 'Averia Sans Libre';
+	font-size: 22pt;
+	letter-spacing: 2px;
+}
+
+h2{
+	font-family:'Averia Sans Libre';
+	font-size: 14pt;
+	letter-spacing: 1px;
+	width: 600px;
+	margin:auto;
+	padding-bottom: 5px;
+}
+
+
+a{
+	font-family: 'Droid Sans Mono';
+	color: black;
+	text-decoration: none;
+	font-size: 10pt;
+}
+
+/* mouse over link */
+a:hover {
+    color: #1CEEFF;
+}
+
+
+p{
+	font-family: 'Droid Sans Mono';
+	font-size: 10pt;
+	width: 600px;
+	margin:auto;
+}
+
+time {
+	font-family: 'Averia Sans Libre';
+	font-size: 14pt;
+	letter-spacing: 1px;
+	float:left;
+}
+
+.contactme{
+	font-family: 'Averia Sans Libre';
+}
+
+.twitch{
+	margin:auto;
+}
+
+strong{
+	font-family: 'Averia Sans Libre';
+	font-size: 12pt;
+}
