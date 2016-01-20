@@ -12,11 +12,14 @@ section{
 
 footer{
 	font-family: 'Averia Sans Libre';
+    color: black;
 	font-size: 10pt;
 	width: 600px;
 	margin:auto;
 	text-align: center;
 	padding-top: 10px;
+    text-decoration: none;
+	font-size: 10pt;
 }
 
 
@@ -38,7 +41,7 @@ h2{
 
 a{
 	font-family: 'Droid Sans Mono';
-	color: black;
+	color: #1CEEFF;
 	text-decoration: none;
 	font-size: 10pt;
 }
@@ -65,6 +68,7 @@ time {
 
 .contactme{
 	font-family: 'Averia Sans Libre';
+    color: black;
 }
 
 .twitch{
