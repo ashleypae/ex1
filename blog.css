@@ -33,19 +33,20 @@ h2{
 	width: 600px;
 	margin:auto;
 	padding-bottom: 5px;
+    background-color: aquamarine;
 }
 
 
 a{
 	font-family: 'Droid Sans Mono';
-	color: black;
+	color: aqua;
 	text-decoration: none;
 	font-size: 10pt;
 }
 
 /* mouse over link */
 a:hover {
-    color: #1CEEFF;
+    color: deepskyblue;
 }
 
 
@@ -56,11 +57,13 @@ p{
 	margin:auto;
 }
 
+
 time {
 	font-family: 'Averia Sans Libre';
 	font-size: 14pt;
 	letter-spacing: 1px;
 	float:left;
+    background-color: aqua;
 }
 
 .contactme{
@@ -68,6 +71,7 @@ time {
 }
 
 .twitch{
+    width: 600px;
 	margin:auto;
 }
 
